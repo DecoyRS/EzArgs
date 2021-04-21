@@ -1,8 +1,8 @@
 # EzArgs
 
 ![Build](https://github.com/DecoyRS/EzArgs/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/16411.svg)](https://plugins.jetbrains.com/plugin/16411)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/16411.svg)](https://plugins.jetbrains.com/plugin/16411)
 
 <!-- Plugin description -->
 The EzArgs plugin provides option to pass arguments to C++ run configurations in convenient matter by simply writing them in dropdown box on the toolbar.
